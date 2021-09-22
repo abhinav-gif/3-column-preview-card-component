@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/abhinav-gif/Frontend-Mentor)
-- Live Site URL: [Preview Site](https://abhinav-gif.github.io/Frontend-Mentor/)
+- Solution URL: [View Code](https://github.com/abhinav-gif/3-column-preview-card-component)
+- Live Site URL: [Preview Site](https://abhinav-gif.github.io/3-column-preview-card-component/)
 
 ## My process
 
